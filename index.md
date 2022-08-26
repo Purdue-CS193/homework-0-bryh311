@@ -1,4 +1,4 @@
-# Bryce's First CS193 Project
+# Bryce's First CS193 Homework
 - I like that we're using Github and potentially learning git commands 
 - I like that we're going learn many of the general POSIX commands, I know some of them but I'd like to learn more
 - I'm excited to learn LaTeX, I've heard of it but I've never used it to format text 

@@ -1,3 +1,9 @@
+# Bryce's First CS193 Project
+- I like that we're using Github and potentially learning git commands 
+- I like that we're going learn many of the general POSIX commands, I know some of them but I'd like to learn more
+- I'm excited to learn LaTeX, I've heard of it but I've never used it to format text 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
